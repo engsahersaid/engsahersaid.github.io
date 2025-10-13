@@ -7,4 +7,10 @@ tags: [Test]     # TAG names should always be lowercase
 author: Saher Said     # see _data/authors.yml
 ---
 
+# Post title goes here
+
 This is a test post with a short summary. For Demo purposes
+
+> Blockquote goes here
+> Another blockquote goes here
+> 
